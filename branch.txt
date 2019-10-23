@@ -1,0 +1,2 @@
+git remote add github git@github.com:Smintzzz/Smintz.git
+git clone git@github.com:Smintzzz/Smintz.git
